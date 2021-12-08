@@ -1,0 +1,19 @@
+{
+    "name": "NTF002",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "7Wbnu6Xt6bW5B9iNDtDHiVfjRbKK3nmBhKq7Pcdoo3mZ",
+          "share": 100
+        }
+      ]
+    }
+  }
